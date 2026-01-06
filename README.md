@@ -114,5 +114,3 @@ NEXUS-SDR includes a **Compliance Layer** (`approvalService.ts`). It scans all o
 *   Multi-modal avatar generation for video outreach.
 
 ---
-
-*Built with ❤️ by the NEXUS Engineering Team.*
